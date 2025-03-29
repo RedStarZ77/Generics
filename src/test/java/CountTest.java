@@ -4,7 +4,7 @@ import static Ex.Count.countOccurrences;
 import static org.junit.jupiter.api.Assertions.*;
 import java.util.*;
 
-class CountOccurrencesTest {
+class CountTest {
 
     @Test
     void testStringList() {
